@@ -1,0 +1,8 @@
+
+The four charts comparing latitude to weather show some interesting results.  Latitude to Maximum Temperature is exactly what you would expect.  The temperatures are highest near the equator and drop lower the further north you go, which makes sense as it's winter in the Northern Hemisphere.
+
+What makes less sense is the humidity, which is concentrated the most at the 40 degree mark, which is where we are in New Jersey...humidity tends to be lower in winter, although maybe it's accounting for all the rain (!)
+
+Wind speed also confirms the time of year, it's windier in the north on the chart.  Cloudiness, however, appears to be completely arbitrary.
+
+Overall, the data is consistent with the current season.
